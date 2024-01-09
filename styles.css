@@ -337,6 +337,12 @@
   .movie-description img {
     width: 80%;
   }
+
+  .stars-label {
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    font-weight: bold;
+  }
   
   .movie-description-stars {
     margin: 15px 0px;
