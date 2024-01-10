@@ -309,6 +309,10 @@
     line-height: 21px;
     padding-bottom: 5px;
   }
+
+  .featured-section-header {
+    color: #FFFFFF;
+  }
   
   .featured-movie-section {
     background-color: #1B1B1B;
